@@ -20,7 +20,7 @@ Furthermore, the idea of computation captures an essential aspect of the system 
 
 The concept of computation also lends a convenient "hard" system for the action. The power of the Agents is that they're playing with a stacked deck of inputs. However, as Morpheus says, the system that produces limits also produces its own limits. As such, the power of The One derives from the rejection of those rules -- specifically, the rejection of ones own belief in them. The action underscores the message that Neo, freed from his old beliefs, has transcended the system, and is therefore outside the laws of computation. A freed mind is no longer an unthinking machine. And thus, when Neo defeats Agent Smith, he does so not by having greater inputs (as is so often the case in Marvel movies, where, absent any obvious change, the hero simply decides to out-punch the villain), it is by refusing to submit to the rules of the system at all. It is, then, the dual, mutually-reinforcing, pleasures of watching a hero succeed literally against the villain and metaphorically against the premise.
 
----
+#
 
 Tragically, these same aspects are a large part of what doom the sequels. The premise became too lofty and the action became disappointing.
 
