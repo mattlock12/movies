@@ -26,4 +26,4 @@ And the piece that might explain it all: that Kathryn Bigelow is James Cameron's
 
 They divorced in 1991, the same year the original was released. Could it be that her marriage to Cameron was the source of the anti-authority streak of *Point Break*? Could it be that her divorce from Cameron was also her divorce from vilifying authority?
 
-Who can say. All I can in conclusion is: fuck the police, go surfing
+Who can say. All I can offer in conclusion is: fuck the police, go surfing
