@@ -10,7 +10,7 @@ It embodies all of these Cameron qualities:
 
 * The entire thing is such a fantastic spectacle, it's almost a transitional point in cinema special effects presentation (like *T2* before it). His eye for excitement and tension is impeccable. Consider the actual process of sinking: the aft rising up, splitting, rising up again, sinking down and sucking everything with it, experienced simultaneously in its entire scale (via miniatures and CGI) and from the personal perspective of Rose and Jack. It is both inspiring and terrifying, those two emotions mixed perfectly.
 
-* To say nothing of the scenes where someone is trapped belowdecks with water slowly rising. I was literally sweating while watching them try to escape the flood. (edited) 
+* To say nothing of the scenes where someone is trapped belowdecks with water slowly rising. I was literally sweating while watching them try to escape the flood.  
 
 2. The protagonist is a woman who must escape oppressive corporate or patriarchal (the two often equivalents in Cameron-land) systems.
 
@@ -37,4 +37,4 @@ More importantly, I don't think it matters. The last brilliant aspect of Cameron
 
 Conclusion: 10/10. James Cameron belongs with George Miller, Akira Kurosawa, and The Coen Brothers for consideration as the Kwisatz Haderach of modern moviemaking. All hail the new Avatars.
 
-Bonus conclusion: "We're a going a to Americaaaa!" in the woggiest way possible (edited) 
+Bonus conclusion: "We're a going a to Americaaaa!" in the woggiest way possible  
