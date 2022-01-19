@@ -4,6 +4,7 @@ import { promises as fs } from 'fs';
 import path from 'path';
 import markdownToHtml from '@/utils/markdownToHtml'
 import {MovieInterface} from './index';
+import style from './movie.module.scss'
 
 
 
@@ -65,8 +66,11 @@ const Movie = (props: MovieReview) => {
   const { id } = router.query
 
   return (
-    <div style={{margin: '20px 60px'}}
-    dangerouslySetInnerHTML={{__html: props.review}}/>
+    <div
+      // className='container mx-auto'
+      className={style.movieContainer}
+      dangerouslySetInnerHTML={{__html: props.review}}
+    />
   )
 }
 

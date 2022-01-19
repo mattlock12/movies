@@ -3,6 +3,8 @@ import { promises as fs } from 'fs';
 import path from 'path';
 import Link from 'next/link';
 
+import style from './movieList.module.scss'
+
 export interface MovieInterface {
   id: number,
   movie: string,
@@ -23,11 +25,18 @@ export const getStaticProps: GetStaticProps = async (ctx ) => {
 }
 
 const MovieHomePage = ({movies}: {movies:MovieInterface[]}) => {
-  return <ul>
+  return <ul className={style.ul}>
     {
       movies.map(movie => (
-        <li key={movie.id}>
-          <Link href={`/movies/${movie.id}`}>{movie.movie}</Link>
+        <li
+          className={style.li}
+          key={movie.id}
+        >
+          <Link
+            href={`/movies/${movie.id}`}
+          >
+              {movie.movie}
+          </Link>
         </li>
       ))
     }
