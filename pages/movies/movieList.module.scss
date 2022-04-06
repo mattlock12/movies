@@ -1,0 +1,15 @@
+.li {
+  @apply transition-all duration-150
+   decoration-1 underline
+   text-xl;
+
+  &:hover, a:focus {
+    @apply decoration-2
+    decoration-sky-400
+    font-bold text-indigo-900;
+  }
+}
+
+.ul {
+  @apply container mx-auto text-base leading-loose my-6;
+}
