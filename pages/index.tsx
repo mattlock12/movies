@@ -3,6 +3,7 @@ import Head from 'next/head'
 import Link from 'next/link'
 import styles from '../styles/Home.module.scss'
 
+console.log('wtf?')
 const Home: NextPage = () => {
   return (
     <div className={styles.container}>
