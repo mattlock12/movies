@@ -6,23 +6,23 @@ import {
 
 import style from '@/styles/media/mediaList.module.scss'
 
-export const getStaticProps = generateMediumStaticProps('movies')
+export const getStaticProps = generateMediumStaticProps('tv')
 
 const MovieHomePage = ({media}: {media:MediaInterface[]}) => {
   return (
     <div className={style.root}>
-      <h1 className={style.title}>Movies</h1>
+      <h1 className={style.title}>Television</h1>
       <ul className={style.ul}>
         {
-          media.map(movie => (
+          media.map(tv => (
             <li
               className={style.li}
-              key={movie.id}
+              key={tv.id}
             >
               <Link
-                href={`/movies/${movie.id}`}
+                href={`/tv/${tv.id}`}
               >
-                  {movie.title}
+                  {tv.title}
               </Link>
             </li>
           ))

@@ -103,7 +103,7 @@
   line-height: 1.5;
 }
 
-a.link {
+a.inlineLink {
   @apply transition-all duration-150
   decoration-1 underline
   text-xl;
@@ -111,7 +111,8 @@ a.link {
     @apply decoration-2
     decoration-sky-400
     font-bold text-indigo-900;
-}
+  }
+  padding: 0 3px;
 }
 
 .logo {

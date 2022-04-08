@@ -21,7 +21,19 @@ const Home: NextPage = () => {
         <div>
           Come, join me and watch some
           <Link href='/movies'>
-             <a className={styles.link}> Movies</a>
+             <a className={styles.inlineLink}>Movies</a>
+          </Link>
+        </div>
+        <div>
+          Or we can netflix and chill, binge watch some quality
+          <Link href='/tv'>
+             <a className={styles.inlineLink}>TV</a>
+          </Link>
+        </div>
+        <div>
+          If you really want to show off we can discuss
+          <Link href='/books'>
+             <a className={styles.inlineLink}>Literature</a>
           </Link>
         </div>
       </main>
