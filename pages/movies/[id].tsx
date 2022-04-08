@@ -18,7 +18,7 @@ type MovieReview = {
 export const getStaticProps: GetStaticProps = async (ctx ) => {
 
   const moviesDirectory = path.join(process.cwd(), 'data/movies')
-  const jsonFile = await fs.readFile(path.join(moviesDirectory, 'movies.json'), 'utf8')
+  const jsonFile = await fs.readFile(path.join(moviesDirectory, 'data.json'), 'utf8')
   const moviesJson: MovieInterface[] = JSON.parse(jsonFile)
 
     const myMovie = moviesJson.filter((movie) =>{
@@ -36,7 +36,7 @@ export const getStaticProps: GetStaticProps = async (ctx ) => {
 
   return {
     props: {
-      title: myMovie.movie,
+      title: myMovie.title,
       review
     }
   }
@@ -47,7 +47,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   // const jsonFile = path.join(markdownDirectory, 'interviews.json');
   // const interviewJSON = JSON.parse(fs.readFileSync(jsonFile, 'utf8'));
   const movieDirectory = path.join(process.cwd(), 'data/movies')
-  const jsonFile = await fs.readFile(path.join(movieDirectory, 'movies.json'), 'utf8')
+  const jsonFile = await fs.readFile(path.join(movieDirectory, 'data.json'), 'utf8')
   const movieJson: MovieInterface[]= JSON.parse(jsonFile)
   const paths = movieJson.map((movie) => ({
     params:{
