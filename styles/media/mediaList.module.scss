@@ -10,6 +10,14 @@
   }
 }
 
+
 .ul {
-  @apply container mx-auto text-base leading-loose my-6;
+  @apply text-base leading-loose;
+}
+
+.title {
+  @apply font-sans text-5xl mx-auto leading-loose font-bold;
+}
+.root {
+  @apply container mx-auto my-6;
 }
