@@ -7,14 +7,14 @@ import style from './movieList.module.scss'
 
 export interface MovieInterface {
   id: number,
-  movie: string,
+  title: string,
   dirname: string
 }
 
 export const getStaticProps: GetStaticProps = async (ctx ) => {
 
   const moviesDirectory = path.join(process.cwd(), 'data/movies')
-  const jsonFile = await fs.readFile(path.join(moviesDirectory, 'movies.json'), 'utf8')
+  const jsonFile = await fs.readFile(path.join(moviesDirectory, 'data.json'), 'utf8')
   const movies = JSON.parse(jsonFile)
 
   return {
@@ -35,7 +35,7 @@ const MovieHomePage = ({movies}: {movies:MovieInterface[]}) => {
           <Link
             href={`/movies/${movie.id}`}
           >
-              {movie.movie}
+              {movie.title}
           </Link>
         </li>
       ))

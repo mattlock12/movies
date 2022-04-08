@@ -5,7 +5,8 @@
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "review": "node ./scaffold/review.js"
   },
   "dependencies": {
     "extracted-loader": "^1.0.7",
