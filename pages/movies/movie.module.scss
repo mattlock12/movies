@@ -1,14 +1,27 @@
-
 .movieContainer {
-  @apply container mx-auto text-base leading-loose my-6;
+  @apply container mx-auto text-base leading-loose my-6 max-w-lg mt-10 pb-20;
 
   h1 {
-    @apply text-5xl my-3 font-bold;
+    @apply text-5xl my-3 font-bold text-slate-800;
   }
   h2 {
-    @apply text-3xl my-3 font-bold;
+    @apply text-3xl my-3 font-bold text-slate-800;
   }
-  p {
-    @apply mb-2;
+  p,
+  li {
+    @apply mb-5 text-slate-800 text-xl;
+    line-height: 2rem;
   }
+
+  hr {
+    @apply my-10;
+  }
+}
+
+.P {
+  float: left;
+  font-size: 7rem;
+  line-height: 0.5;
+  margin-top: 20px;
+  margin-right: 25px;
 }

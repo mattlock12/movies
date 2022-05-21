@@ -2,21 +2,29 @@
   {
     "id": 1,
     "movie": "Matrix Revolutions",
+    "title": "No Time to Resurrect",
+    "published": null,
     "dirname": "matrix_revolutions"
   },
   {
     "id": 2,
     "movie": "Titanic",
+    "title": "The Neurosis of the Rich",
+    "published": null,
     "dirname": "titanic"
   },
   {
     "id": 3,
     "movie": "Point Break",
+    "title": "Divorce and other Extreme Sports",
+    "published": null,
     "dirname": "point_break"
   },
   {
     "id": 4,
     "movie": "Dirty Dancing",
+    "title": "The Co-optation of the Twist",
+    "published": null,
     "dirname": "dirty_dancing"
   }
 ]
