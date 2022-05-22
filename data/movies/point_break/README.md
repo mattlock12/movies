@@ -1,8 +1,6 @@
-# Points Break
+Compared to the remake of _Point Break_, the 1991 version is a master class in subtlety. Everything that is artfully communicated in the original is said, loudly, several times, and more stupidly, in the remake.
 
-Compared to the remake of *Point Break*, the 1991 version is a master class in subtlety. Everything that is artfully communicated in the original is said, loudly, several times, and more stupidly, in the remake.
-
-In the remake, Johnny Utah and all of Bodhi's gang are "polyathletes." Which is a made-up term used to excuse away why they're instantly pro-level at every sport they try. In the original, Johnny Utah is just a regular guy who used to be an athlete. He played football, and he's not ever even good at surfing. This is decidedly more engaging, because you're no longer watching a superhuman (or, as is so often the case in the remake, a CGI gumby-man). 
+In the remake, Johnny Utah and all of Bodhi's gang are "polyathletes." Which is a made-up term used to excuse away why they're instantly pro-level at every sport they try. In the original, Johnny Utah is just a regular guy who used to be an athlete. He played football, and he's not ever even good at surfing. This is decidedly more engaging, because you're no longer watching a superhuman (or, as is so often the case in the remake, a CGI gumby-man).
 
 In the remake, Bodhi is looking to complete the "Ozaki 8," a concept that is half pseudo-eastern religion and half X-games category. And which is also completely unrelatable for 99% of the population. In the original, Bodhi is only looking to live a life where he can ride waves forever. This is decidedly more engaging, because all of us want something in the same vein.
 
@@ -18,12 +16,12 @@ It's difficult to fully root for original Bodhi, since he does take some questio
 
 ---
 
-Would it surprise you to know that this film (which could be fairly summarized as "fuck the police, go surfing") was directed by Kathryn Bigelow, the same woman who went on to direct *The Hurt Locker* (a film about how pointless endless imperial war founded on lies is hell, but mostly for the poor bored American soldiers when they come back from vivsecting child suicide bombers and can't decide which breakfast cereal to buy), and then *Zero Dark Thirty* (a film whose protagonist is the CIA and message is that torture is probably actually okay as long as you get your man)?
+Would it surprise you to know that this film (which could be fairly summarized as "fuck the police, go surfing") was directed by Kathryn Bigelow, the same woman who went on to direct _The Hurt Locker_ (a film about how pointless endless imperial war founded on lies is hell, but mostly for the poor bored American soldiers when they come back from vivsecting child suicide bombers and can't decide which breakfast cereal to buy), and then _Zero Dark Thirty_ (a film whose protagonist is the CIA and message is that torture is probably actually okay as long as you get your man)?
 
-Would it also surprise you to know that the original *Point Break* was produced by James "fuck the man" Cameron, himself? You can see a Cameron-esque influence on this film. From the sleazy corporation in Aliens, to the sleazy corporation in Avatar, to cops protecting the sleazy corporation in T2, to the oppressive FBI, James Cameron's general assessment of authority is clear: it is incompetent and/or evil.
+Would it also surprise you to know that the original _Point Break_ was produced by James "fuck the man" Cameron, himself? You can see a Cameron-esque influence on this film. From the sleazy corporation in Aliens, to the sleazy corporation in Avatar, to cops protecting the sleazy corporation in T2, to the oppressive FBI, James Cameron's general assessment of authority is clear: it is incompetent and/or evil.
 
 And the piece that might explain it all: that Kathryn Bigelow is James Cameron's ex-wife
 
-They divorced in 1991, the same year the original was released. Could it be that her marriage to Cameron was the source of the anti-authority streak of *Point Break*? Could it be that her divorce from Cameron was also her divorce from vilifying authority?
+They divorced in 1991, the same year the original was released. Could it be that her marriage to Cameron was the source of the anti-authority streak of _Point Break_? Could it be that her divorce from Cameron was also her divorce from vilifying authority?
 
 Who can say. All I can offer in conclusion is: fuck the police, go surfing
